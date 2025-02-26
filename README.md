@@ -27,14 +27,13 @@
   <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
 </div>
 
---- 
 ## สารบัญเนื้อหา
-- [Task/Instruction]()
-- [Context]()
-- [Examples]()
-- [Persona]()
-- [Format/Style]()
-- [Tone]()
+- [Task/Instruction](#ตัวอย่าง-prompt-task--instruction)
+- [Context](#ตัวอย่าง-prompt-context)
+- [Examples](#ตัวอย่าง-prompt-examples)
+- [Persona](#ตัวอย่าง-prompt-persona)
+- [Format/Style](#ตัวอย่าง-prompt-format--style)
+- [Tone](#ตัวอย่าง-prompt-tone)
 ---
 
 ### ตัวอย่าง Prompt (Task / Instruction)

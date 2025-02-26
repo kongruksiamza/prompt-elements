@@ -36,7 +36,7 @@
 - [Tone](#ตัวอย่าง-prompt-tone)
 ---
 
-## ตัวอย่าง Prompt (Task / Instruction)
+### ตัวอย่าง Prompt (Task / Instruction)
 ```
 สรุปข่าวเด่นของวันนี้ให้กระชับเข้าใจง่าย
 ```

@@ -1,35 +1,8 @@
-<div id="header" align="center">
-  <h2>ตัวอย่าง Prompt ประกอบการสอนองค์ประกอบพื้นฐานของ Prompt</h2>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@KongRuksiamOfficial" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-    <a href="https://www.udemy.com/user/kong-ruksiam/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@KongRuksiamOfficial/store" target="_blank">
-    <img src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=Shopee&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@kongruksiam" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://codepen.io/kongruksiamstudio" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@kongruksiamstudio" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
-</div>
+## องค์ประกอบพื้นฐานของ Prompt
 
 ---
 
-## ตัวอย่าง Prompt (Task / Instruction)
+### ตัวอย่าง Prompt (Task / Instruction)
 ```
 สรุปข่าวเด่นของวันนี้ให้กระชับเข้าใจง่าย
 ```
@@ -46,7 +19,7 @@
 เปรียบเทียบข้อดี-ข้อเสียของการเป็นฟรีแลนซ์
 ```
 
-## ตัวอย่าง Prompt (Context)
+### ตัวอย่าง Prompt (Context)
 
 ```
 แนะนำเทคนิคจัดการความเครียดที่สามารถทำได้ภายใน 5 นาที
@@ -64,7 +37,7 @@
 แนะนำสถานที่ท่องเที่ยวในประเทศไทยสำหรับครอบครัวที่มีเด็กเล็ก
 ```
 
-## ตัวอย่าง Prompt (Examples)
+### ตัวอย่าง Prompt (Examples)
 
 ```
 เขียนบทความเกี่ยวกับการท่องเที่ยว 
@@ -81,7 +54,7 @@
 อยากได้สูตรขนมไทยโบราณที่น่าสนใจ 
 ```
 
-## ตัวอย่าง Prompt (Persona)
+### ตัวอย่าง Prompt (Persona)
 ```
 ตอบคำถามสุขภาพจิตโดยให้คุณรับบทบาทเป็นนักจิตวิทยาที่มีประสบการณ์ 15 ปี
 ```
@@ -92,7 +65,7 @@
 คุณเป็นโปรแกรมเมอร์ช่วยอธิบายหลักการเขียนโค้ดที่ดีและวิธีเริ่มต้นเรียนรู้การเขียนโปรแกรมสำหรับผู้เริ่มต้น
 ```
 
-## ตัวอย่าง Prompt (Format / Style)
+### ตัวอย่าง Prompt (Format / Style)
 ```
 อธิบายขั้นตอนการยื่นภาษีออนไลน์ในรูปแบบ Bullet Points
 ```
@@ -115,7 +88,7 @@
 สร้างภาพเหมือนชายชราที่มีริ้วรอยลึกแสดงถึงประสบการณ์ชีวิต
 ```
 
-## ตัวอย่าง Prompt (Tone)
+### ตัวอย่าง Prompt (Tone)
 ```
 เล่าเรื่องราวเกี่ยวกับวันแรกในมหาวิทยาลัยด้วยน้ำเสียงที่เต้นตื่นและสนุกสนาน
 ```

@@ -1,5 +1,11 @@
-## องค์ประกอบพื้นฐานของ Prompt
-
+## ✍️ องค์ประกอบพื้นฐานของ Prompt
+## สารบัญเนื้อหา
+- [Task/Instruction]()
+- [Context]()
+- [Examples]()
+- [Persona]()
+- [Format/Style]()
+- [Tone]()
 ---
 
 ### ตัวอย่าง Prompt (Task / Instruction)
